@@ -7,3 +7,7 @@
 ## Abrir tutorial 1 en Google Colab:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jpmartinez10/IELE1000-2020-20/blob/master/Tutorial%20Python/tutorial_python_base.ipynb)
 
+
+## Abrir el Reto de programación en Python en Google Colab:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jpmartinez10/IELE1000-2020-20/blob/master/Reto%20Python/reto_python.ipynb)
+
